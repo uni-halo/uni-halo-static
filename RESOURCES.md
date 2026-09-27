@@ -68,8 +68,8 @@
 | `images/material/uni_halo_img_lazyload.gif` | 图片懒加载占位动效 | 93.3 KB | [加速](https://gcore.jsdelivr.net/gh/uni-halo/uni-halo-static@main/images/material/uni_halo_img_lazyload.gif) | [raw](https://raw.githubusercontent.com/uni-halo/uni-halo-static/main/images/material/uni_halo_img_lazyload.gif) |
 | `images/material/uni_halo_profile_bg.jpg` | 个人资料页默认背景图 | 17.9 KB | [加速](https://gcore.jsdelivr.net/gh/uni-halo/uni-halo-static@main/images/material/uni_halo_profile_bg.jpg) | [raw](https://raw.githubusercontent.com/uni-halo/uni-halo-static/main/images/material/uni_halo_profile_bg.jpg) |
 | `images/notices/release.png` | 版本发布公告配图 | 3.8 MB | [加速](https://gcore.jsdelivr.net/gh/uni-halo/uni-halo-static@main/images/notices/release.png) | [raw](https://raw.githubusercontent.com/uni-halo/uni-halo-static/main/images/notices/release.png) |
-| `images/qqqun.png` | QQ 交流群二维码 | 3.0 MB | [加速](https://gcore.jsdelivr.net/gh/uni-halo/uni-halo-static@main/images/qqqun.png) | [raw](https://raw.githubusercontent.com/uni-halo/uni-halo-static/main/images/qqqun.png) |
-| `images/mp.png` | 小程序 / 公众号二维码 | 30.3 KB | [加速](https://gcore.jsdelivr.net/gh/uni-halo/uni-halo-static@main/images/mp.png) | [raw](https://raw.githubusercontent.com/uni-halo/uni-halo-static/main/images/mp.png) |
+| `images/qqqun.jpeg` | QQ 交流群二维码 | 169.0 KB | [加速](https://gcore.jsdelivr.net/gh/uni-halo/uni-halo-static@main/images/qqqun.jpeg) | [raw](https://raw.githubusercontent.com/uni-halo/uni-halo-static/main/images/qqqun.jpeg) |
+| `images/mp.jpeg` | 小程序 / 公众号二维码 | 91.4 KB | [加速](https://gcore.jsdelivr.net/gh/uni-halo/uni-halo-static@main/images/mp.jpeg) | [raw](https://raw.githubusercontent.com/uni-halo/uni-halo-static/main/images/mp.jpeg) |
 | `images/iframe/iPhone13.png` | 文档站 iframe 预览用的 iPhone13 外框 | 16.9 KB | [加速](https://gcore.jsdelivr.net/gh/uni-halo/uni-halo-static@main/images/iframe/iPhone13.png) | [raw](https://raw.githubusercontent.com/uni-halo/uni-halo-static/main/images/iframe/iPhone13.png) |
 
 ### 应用截图 / screenshots
