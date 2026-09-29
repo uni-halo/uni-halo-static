@@ -28,10 +28,11 @@
 |---|---|---|
 | 品牌标识 / Logo & Favicon | 4 | 855 KB |
 | 文档站运行时数据 / docs/data | 5 | 16 KB |
+| 文档站配图 / docs/app-release | 15 | 4.1 MB |
 | 通用图片 / images | 7 | 7.9 MB |
 | 应用截图 / screenshots | 25 | 12.8 MB |
 | 作者资源 / author | 7 | 1.4 MB |
-| **合计** | **48** | **23.0 MB** |
+| **合计** | **63** | **27.1 MB** |
 
 ## 三、资源明细
 
@@ -57,6 +58,28 @@
 | `docs/data/notify.json` | 文档站消息通知卡片配置 | 415 B | [加速](https://gcore.jsdelivr.net/gh/uni-halo/uni-halo-static@main/docs/data/notify.json) | [raw](https://raw.githubusercontent.com/uni-halo/uni-halo-static/main/docs/data/notify.json) |
 | `docs/data/team.json` | 团队成员介绍数据 | 4.8 KB | [加速](https://gcore.jsdelivr.net/gh/uni-halo/uni-halo-static@main/docs/data/team.json) | [raw](https://raw.githubusercontent.com/uni-halo/uni-halo-static/main/docs/data/team.json) |
 | `docs/data/examples.json` | 示例站点 / 用户案例列表 | 1.7 KB | [加速](https://gcore.jsdelivr.net/gh/uni-halo/uni-halo-static@main/docs/data/examples.json) | [raw](https://raw.githubusercontent.com/uni-halo/uni-halo-static/main/docs/data/examples.json) |
+
+### 文档站配图 / docs/app-release
+
+`uni-halo-doc` 发布 APP 指南（`deploy/app-release.md`）使用的步骤配图。
+
+| 文件路径 | 说明 | 大小 | 加速访问 | raw 访问 |
+|---|---|---|---|---|
+| `docs/app-release/01-微信开发者工具-导入.png` | 微信开发者工具导入项目入口 | 19.5 KB | [加速](https://gcore.jsdelivr.net/gh/uni-halo/uni-halo-static@main/docs/app-release/01-%E5%BE%AE%E4%BF%A1%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7-%E5%AF%BC%E5%85%A5.png) | [raw](https://raw.githubusercontent.com/uni-halo/uni-halo-static/main/docs/app-release/01-%E5%BE%AE%E4%BF%A1%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7-%E5%AF%BC%E5%85%A5.png) |
+| `docs/app-release/02-HBuilderX-从本地目录导入.png` | HBuilderX 从本地目录导入项目 | 49.4 KB | [加速](https://gcore.jsdelivr.net/gh/uni-halo/uni-halo-static@main/docs/app-release/02-HBuilderX-%E4%BB%8E%E6%9C%AC%E5%9C%B0%E7%9B%AE%E5%BD%95%E5%AF%BC%E5%85%A5.png) | [raw](https://raw.githubusercontent.com/uni-halo/uni-halo-static/main/docs/app-release/02-HBuilderX-%E4%BB%8E%E6%9C%AC%E5%9C%B0%E7%9B%AE%E5%BD%95%E5%AF%BC%E5%85%A5.png) |
+| `docs/app-release/03-HBuilderX-重新识别项目类型.png` | HBuilderX 重新识别项目类型 | 30.1 KB | [加速](https://gcore.jsdelivr.net/gh/uni-halo/uni-halo-static@main/docs/app-release/03-HBuilderX-%E9%87%8D%E6%96%B0%E8%AF%86%E5%88%AB%E9%A1%B9%E7%9B%AE%E7%B1%BB%E5%9E%8B.png) | [raw](https://raw.githubusercontent.com/uni-halo/uni-halo-static/main/docs/app-release/03-HBuilderX-%E9%87%8D%E6%96%B0%E8%AF%86%E5%88%AB%E9%A1%B9%E7%9B%AE%E7%B1%BB%E5%9E%8B.png) |
+| `docs/app-release/04-运行到iOS模拟器基座.png` | HBuilderX 运行到 iOS 模拟器基座菜单 | 50.3 KB | [加速](https://gcore.jsdelivr.net/gh/uni-halo/uni-halo-static@main/docs/app-release/04-%E8%BF%90%E8%A1%8C%E5%88%B0iOS%E6%A8%A1%E6%8B%9F%E5%99%A8%E5%9F%BA%E5%BA%A7.png) | [raw](https://raw.githubusercontent.com/uni-halo/uni-halo-static/main/docs/app-release/04-%E8%BF%90%E8%A1%8C%E5%88%B0iOS%E6%A8%A1%E6%8B%9F%E5%99%A8%E5%9F%BA%E5%BA%A7.png) |
+| `docs/app-release/05-选择iOS模拟器设备.png` | 选择 iOS 模拟器设备弹窗 | 84.3 KB | [加速](https://gcore.jsdelivr.net/gh/uni-halo/uni-halo-static@main/docs/app-release/05-%E9%80%89%E6%8B%A9iOS%E6%A8%A1%E6%8B%9F%E5%99%A8%E8%AE%BE%E5%A4%87.png) | [raw](https://raw.githubusercontent.com/uni-halo/uni-halo-static/main/docs/app-release/05-%E9%80%89%E6%8B%A9iOS%E6%A8%A1%E6%8B%9F%E5%99%A8%E8%AE%BE%E5%A4%87.png) |
+| `docs/app-release/06-HBuilderX-从本地目录导入-大图.png` | HBuilderX 从本地目录导入（大图） | 244.8 KB | [加速](https://gcore.jsdelivr.net/gh/uni-halo/uni-halo-static@main/docs/app-release/06-HBuilderX-%E4%BB%8E%E6%9C%AC%E5%9C%B0%E7%9B%AE%E5%BD%95%E5%AF%BC%E5%85%A5-%E5%A4%A7%E5%9B%BE.png) | [raw](https://raw.githubusercontent.com/uni-halo/uni-halo-static/main/docs/app-release/06-HBuilderX-%E4%BB%8E%E6%9C%AC%E5%9C%B0%E7%9B%AE%E5%BD%95%E5%AF%BC%E5%85%A5-%E5%A4%A7%E5%9B%BE.png) |
+| `docs/app-release/07-发行-原生App云打包.png` | HBuilderX 发行原生App云打包菜单 | 32.7 KB | [加速](https://gcore.jsdelivr.net/gh/uni-halo/uni-halo-static@main/docs/app-release/07-%E5%8F%91%E8%A1%8C-%E5%8E%9F%E7%94%9FApp%E4%BA%91%E6%89%93%E5%8C%85.png) | [raw](https://raw.githubusercontent.com/uni-halo/uni-halo-static/main/docs/app-release/07-%E5%8F%91%E8%A1%8C-%E5%8E%9F%E7%94%9FApp%E4%BA%91%E6%89%93%E5%8C%85.png) |
+| `docs/app-release/08-云打包配置-Android.png` | 云打包面板 Android 配置 | 236.2 KB | [加速](https://gcore.jsdelivr.net/gh/uni-halo/uni-halo-static@main/docs/app-release/08-%E4%BA%91%E6%89%93%E5%8C%85%E9%85%8D%E7%BD%AE-Android.png) | [raw](https://raw.githubusercontent.com/uni-halo/uni-halo-static/main/docs/app-release/08-%E4%BA%91%E6%89%93%E5%8C%85%E9%85%8D%E7%BD%AE-Android.png) |
+| `docs/app-release/09-manifest-基础配置-AppID.png` | manifest 基础配置中的 DCloud AppID | 641.5 KB | [加速](https://gcore.jsdelivr.net/gh/uni-halo/uni-halo-static@main/docs/app-release/09-manifest-%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE-AppID.png) | [raw](https://raw.githubusercontent.com/uni-halo/uni-halo-static/main/docs/app-release/09-manifest-%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE-AppID.png) |
+| `docs/app-release/10-env-VITE_UNI_APPID.png` | env 文件中的 VITE_UNI_APPID 配置 | 888.9 KB | [加速](https://gcore.jsdelivr.net/gh/uni-halo/uni-halo-static@main/docs/app-release/10-env-VITE_UNI_APPID.png) | [raw](https://raw.githubusercontent.com/uni-halo/uni-halo-static/main/docs/app-release/10-env-VITE_UNI_APPID.png) |
+| `docs/app-release/11-manifest-Android设置-minSdkVersion.png` | manifest Android 设置 minSdkVersion | 704.7 KB | [加速](https://gcore.jsdelivr.net/gh/uni-halo/uni-halo-static@main/docs/app-release/11-manifest-Android%E8%AE%BE%E7%BD%AE-minSdkVersion.png) | [raw](https://raw.githubusercontent.com/uni-halo/uni-halo-static/main/docs/app-release/11-manifest-Android%E8%AE%BE%E7%BD%AE-minSdkVersion.png) |
+| `docs/app-release/12-依赖版本-uni-app-SDK.png` | package.json 中 uni-app SDK 版本 | 32.8 KB | [加速](https://gcore.jsdelivr.net/gh/uni-halo/uni-halo-static@main/docs/app-release/12-%E4%BE%9D%E8%B5%96%E7%89%88%E6%9C%AC-uni-app-SDK.png) | [raw](https://raw.githubusercontent.com/uni-halo/uni-halo-static/main/docs/app-release/12-%E4%BE%9D%E8%B5%96%E7%89%88%E6%9C%AC-uni-app-SDK.png) |
+| `docs/app-release/13-HBuilderX版本与SDK不匹配.png` | HBuilderX 版本与 SDK 不匹配弹窗 | 485.3 KB | [加速](https://gcore.jsdelivr.net/gh/uni-halo/uni-halo-static@main/docs/app-release/13-HBuilderX%E7%89%88%E6%9C%AC%E4%B8%8ESDK%E4%B8%8D%E5%8C%B9%E9%85%8D.png) | [raw](https://raw.githubusercontent.com/uni-halo/uni-halo-static/main/docs/app-release/13-HBuilderX%E7%89%88%E6%9C%AC%E4%B8%8ESDK%E4%B8%8D%E5%8C%B9%E9%85%8D.png) |
+| `docs/app-release/14-真机提示-版本不匹配.png` | 真机运行版本不匹配提示 | 201.7 KB | [加速](https://gcore.jsdelivr.net/gh/uni-halo/uni-halo-static@main/docs/app-release/14-%E7%9C%9F%E6%9C%BA%E6%8F%90%E7%A4%BA-%E7%89%88%E6%9C%AC%E4%B8%8D%E5%8C%B9%E9%85%8D.png) | [raw](https://raw.githubusercontent.com/uni-halo/uni-halo-static/main/docs/app-release/14-%E7%9C%9F%E6%9C%BA%E6%8F%90%E7%A4%BA-%E7%89%88%E6%9C%AC%E4%B8%8D%E5%8C%B9%E9%85%8D.png) |
+| `docs/app-release/15-Mac多版本HBuilderX.png` | macOS 多版本 HBuilderX 共存 | 483.7 KB | [加速](https://gcore.jsdelivr.net/gh/uni-halo/uni-halo-static@main/docs/app-release/15-Mac%E5%A4%9A%E7%89%88%E6%9C%ACHBuilderX.png) | [raw](https://raw.githubusercontent.com/uni-halo/uni-halo-static/main/docs/app-release/15-Mac%E5%A4%9A%E7%89%88%E6%9C%ACHBuilderX.png) |
 
 ### 通用图片 / images
 
@@ -127,7 +150,7 @@
 | `videos/` | 演示视频资源 |
 | `screenshots/app/v3.x/` | v3.x 应用截图 |
 | `screenshots/plugin/v3.x/` | v3.x Halo 插件截图 |
-| `docs/` | 文档站静态资源根目录（运行时数据位于 `docs/data/`） |
+| `docs/` | 文档站静态资源根目录（运行时数据位于 `docs/data/`，文档配图位于 `docs/app-release/` 等） |
 
 ## 五、维护约定
 
